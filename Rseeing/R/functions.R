@@ -1,5 +1,6 @@
 library(zoo)
 library(ggplot2)
+
 CleanValues<-function(datas,seuilmax=5)
 {
   if(class(datas)=="zoo")
