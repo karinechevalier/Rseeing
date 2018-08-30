@@ -1,0 +1,9 @@
+Package: Rseeing
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2018-03-05
+Author: K. Chevalier-Jabet
+Maintainer: K. Chevalier-Jabet <karine.chevalier@outlook.fr>
+Description: Ensemble d'utiltaires pour le post-traitements de series d'acquisitions de seeing avec le SSM
+License: Libre

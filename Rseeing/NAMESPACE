@@ -1,0 +1,15 @@
+exportPattern("^[[:alpha:]]+")
+export("ReadSSMFile"
+       ,"CleanValues"
+       ,"Histogram"
+       ,"HistogrammesDureePasseSousValeursSeeing"
+       ,"DureePasseSousValeursSeeing"
+       ,"QQplot"
+       ,"Quantiles"
+       ,"QuantilesvsTime"
+       ,"HistrogramsThroughTime"
+       ,"FractionsTemporellesSousSeeing_interet"
+ )
+import("zoo")
+import("ggplot2")
+import("scales")
